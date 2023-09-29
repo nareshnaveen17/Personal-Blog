@@ -527,11 +527,11 @@ body footer .container .social ul li a {
   text-decoration: none;
 }
 body footer .container .social ul li a img {
-  width: 40%;
+  width: 60%;
   transition: all 0.5s;
 }
 body footer .container .social ul li a img:hover {
-  transform: scale(2);
+  transform: scale(1.5);
 }
 body footer .container .social img {
   width: 110px;
